@@ -2,6 +2,8 @@
 # Test tecnico
 
 Buenas, le dejo los pasos a seguir para probar el programa.
+los endpoints van seguido de /api ej: 127.0.0.1:8000/api/ba_weather
+127.0.0.1:8000/api/current?query=new%20york
 
 ## Deployment
 
